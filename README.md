@@ -4,6 +4,7 @@ This project aims to refine an NLP model for the Brazilian legal system by lever
 
 ## Authors
 Joao Pedro Volpi (joao-pedro.monteiro-volpi@student-cs.fr)
+
 Lucas Vitoriano de Queiroz Lira (lucasvitoriano.queirozlira@student-cs.fr)
 CentraleSupélec
 
